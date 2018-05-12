@@ -1,0 +1,47 @@
+_repo: Letters-on-the-Cholera-Morbus.community._28147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fergusson, William
+    birthdate: 1773
+    deathdate: 1846
+    gutenberg_agent_id: '33164'
+    url: http://www.gutenberg.org/2009/agents/33164
+  - agent_name: Gillkrest, J. (James)
+    alias: Gillkrest, James
+    deathdate: 1853
+    gutenberg_agent_id: '33163'
+    url: http://www.gutenberg.org/2009/agents/33163
+description: ''
+gutenberg_issued: '2009-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Gastroenteritis'
+title: 'Letters on the Cholera Morbus.
+
+  Containing ample evidence that this disease, under whatever
+
+  name known, cannot be transmitted from the persons of those
+
+  labouring under it to other individuals, by contact—through
+
+  the medium of inanimate substances—or through the medium
+
+  of the atmosphere; and that all restrictions, by cordons
+
+  and quarantine regulations, are, as far as regards this
+
+  disease, not merely useless, but highly injurious to the
+
+  community.'
+url: http://www.gutenberg.org/ebooks/28147
