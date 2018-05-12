@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33163'
     url: http://www.gutenberg.org/2009/agents/33163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28147#Letters-on-the-Cholera-Morbus.community.
 gutenberg_issued: '2009-02-20'
 gutenberg_type: Text
 identifiers:
